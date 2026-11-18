@@ -31,3 +31,4 @@ class Dashboard extends Component
         ])->layout('components.layouts.app', ['title' => 'Dashboard']);
     }
 }
+

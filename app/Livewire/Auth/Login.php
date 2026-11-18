@@ -82,3 +82,4 @@ class Login extends Component
             ->layout('components.layouts.app', ['title' => 'Login Administrator']);
     }
 }
+

@@ -53,3 +53,4 @@ class Administrator extends Authenticatable
         return $this->status === 'active';
     }
 }
+

@@ -143,3 +143,4 @@ class AccessVerificationController extends Controller
         ], 200);
     }
 }
+

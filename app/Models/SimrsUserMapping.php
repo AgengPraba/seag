@@ -28,3 +28,4 @@ class SimrsUserMapping extends Model
         return $this->status === 'active';
     }
 }
+

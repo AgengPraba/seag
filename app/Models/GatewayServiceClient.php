@@ -28,3 +28,4 @@ class GatewayServiceClient extends Model
         ];
     }
 }
+

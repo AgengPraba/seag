@@ -129,3 +129,4 @@ class Index extends Component
         ])->layout('components.layouts.app', ['title' => 'Manajemen Administrator']);
     }
 }
+

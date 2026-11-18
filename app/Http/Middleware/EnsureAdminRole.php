@@ -29,3 +29,4 @@ class EnsureAdminRole
         abort(403, 'Anda tidak memiliki hak akses (Role) yang diperlukan untuk mengakses modul ini.');
     }
 }
+

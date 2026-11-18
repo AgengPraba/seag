@@ -32,3 +32,4 @@ class AccessAuditLog extends Model
         ];
     }
 }
+
